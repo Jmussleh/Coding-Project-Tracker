@@ -10,4 +10,5 @@ function readProjectsFromStorage() {
 var Projects = localStorage.getItem("Projects");
 }
 
+
 displayTime();
